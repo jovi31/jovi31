@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## 📊 Stats
+<a href="https://github.com/jovi31/jovi31">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jovi31&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="João Victor Costa Araujo's GitHub Stats" />
+</a>
+<a href="https://github.com/jovi31/jovi31">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovi31&langs_count=3&theme=tokyonight" alt="João Victor Costa Araujo's most used languages" />
+</a>
+
 <!--
 **jovi31/jovi31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
